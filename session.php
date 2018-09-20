@@ -37,13 +37,6 @@ if (intercept('POST')) {
         </style>
     </head>
     <body>
-        <h1>Session API</h1>
-        <h3>Create Session Operation</h3>
-        <h5>Sample Request</h5>
-        <pre><code>POST <?php echo $pageUrl; ?></code></pre>
-        <h5>Sample Response</h5>
-        <pre><code>Content-Type: application/json
-Payload:
 {
     "apiVersion": "<?php echo $apiVersion; ?>",
     "gatewayResponse": {
