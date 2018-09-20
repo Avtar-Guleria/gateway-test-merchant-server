@@ -50,7 +50,7 @@ Payload:
         "merchant": "<?php echo $merchantId; ?>",
         "result": "SUCCESS",
         "session": {
-            "id": "SESSION0000000000000000000000",
+            "id": "SESSION000000000000000000000000",
             "updateStatus": "NO_UPDATE",
             "version": "abcdef0123"
         }
